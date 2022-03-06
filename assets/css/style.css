@@ -27,7 +27,7 @@ body {
 }
 
 /* Nav */
-.header div {
+.header nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -35,11 +35,11 @@ body {
   font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
   list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
@@ -53,7 +53,7 @@ p {
   font-size: 16px;
 }
 
-/* Hero and About Services Start */
+/* About Services Start */
 .hero {
   height: 800px;
   width: 100%;
@@ -132,7 +132,7 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
-/* End About Services */
+/* About Services End */
 
 /* Benefits Start */
 .benefits {
@@ -182,7 +182,6 @@ p {
   max-width: 150px;
 }
 /*Benefits End */
-/* Hero End */
 
 /* Footer Start */
 .footer {
