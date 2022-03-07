@@ -21,5 +21,3 @@ SO THAT our own site is optimized for search engines
 ## Links
 
 Deployed Application URL - <https://harrison-daniel.github.io/CH-01-Code-Refactor/>
-
-Github Repository URL - <https://github.com/harrison-daniel/CH-01-Code-Refactor.git>
