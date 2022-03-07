@@ -53,7 +53,6 @@ p {
   font-size: 16px;
 }
 
-/* About Services Start */
 .hero {
   height: 800px;
   width: 100%;
@@ -63,6 +62,7 @@ p {
   background-position: center;
 }
 
+/* About Services  */
 .float-left {
   float: left;
   margin-right: 25px;
@@ -132,9 +132,8 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
-/* About Services End */
 
-/* Benefits Start */
+/* Benefits  */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -181,9 +180,8 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
-/*Benefits End */
 
-/* Footer Start */
+/* Footer */
 .footer {
   padding: 30px;
   clear: both;
@@ -195,4 +193,3 @@ p {
 .footer h2 {
   font-size: 20px;
 }
-/* Footer End */
