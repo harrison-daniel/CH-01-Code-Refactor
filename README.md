@@ -17,3 +17,11 @@ SO THAT our own site is optimized for search engines
 ## Mockup
 
 <img src="./assets/images/CH-01-Mockup.png">
+
+## Links
+
+```
+Deployed Application URL - https://github.com/harrison-daniel/CH-01-Code-Refactor
+
+Github Repository URL - https://github.com/harrison-daniel/CH-01-Code-Refactor.git
+```
